@@ -1,0 +1,7 @@
+Questions to ask:
+
+- How has duration of songs changed over time? Are songs longer or shorter today?
+- Are songs faster today?
+- Which genre is the most popular? Lively?
+- Most popular artist?
+- Is music louder today?
