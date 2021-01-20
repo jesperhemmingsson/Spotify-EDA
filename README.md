@@ -3,6 +3,15 @@ An Exploratory Data Analysis of "Spotify Dataset 1921-2020, 160k+ Tracks" at Kag
 
 This was a small hobby project, trying to find some fun insights about music. I am a huge music nerd so this was rather entertaining.
 
+An attempt to predict song popularity was done with Random Forest Regressor, SGD Regressor and XGBoost Regressor. There results were the following:
+
+| Model                   | MAE  |
+| ----------------------- | ---:|
+| Random Forest Regressor |7.93 | 
+| SGD Regressor           |8.13 |
+| XGBoost Regressor       |7.55 |
+
+
 ### Key insights:
 - Music have gotten quite a lot louder over the past years
 - Explicit content has rapidly increased in songs (well, at least explicit-ratings of songs)
