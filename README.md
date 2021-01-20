@@ -11,6 +11,7 @@ An attempt to predict song popularity was done with Random Forest Regressor, SGD
 | SGD Regressor           |8.13 |
 | XGBoost Regressor       |7.55 |
 
+The regressions were made in a very simple manner without any hyper parameter tuning, and the end result was far for perfect in terms of predicting how popular a song is. 
 
 ### Key insights:
 - Music have gotten quite a lot louder over the past years
